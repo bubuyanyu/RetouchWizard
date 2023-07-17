@@ -1,1 +1,26 @@
-{"version": 1688023245, "newUserTrialCount": 3,"services":["a","b","c"]}
+{
+    "version": 1689578817,
+    "newUserTrialCount": 3,
+    "services": [
+        "a",
+        "b",
+        "c"
+    ],
+    "ss": [
+        {
+            "t": "b",
+            "o": [
+                "a",
+                "d",
+                "b",
+                "c"
+            ]
+        },
+        {
+            "t": "e",
+            "o": [
+                "a"
+            ]
+        }
+    ]
+}
